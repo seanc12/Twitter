@@ -5,6 +5,8 @@ Rack version	1.6.4
 JavaScript Runtime	Node.js (V8)
 Middleware	
 
+<h3>rails server -b $IP -p $PORT<h3>
+
     Rack::Sendfile
     ActionDispatch::Static
     Rack::Lock
