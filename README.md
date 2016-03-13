@@ -6,6 +6,7 @@ JavaScript Runtime	Node.js (V8)
 Middleware	
 
 <h3>rails server -b $IP -p $PORT<h3>
+<h4>rake test</h4>
 
     Rack::Sendfile
     ActionDispatch::Static
